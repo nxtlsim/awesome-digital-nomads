@@ -40,6 +40,7 @@
 - [Skyscanner](https://www.skyscanner.com/) - A flight search engine for finding the best travel deals.
 - [Airbnb](https://www.airbnb.com/) - Book unique stays and find monthly rentals for long-term travel.
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and accommodations.
+- [eSIM Compatibility Check](https://nxtlsim.github.io/esim-compatibility-check/) - A free browser tool to check whether your phone supports eSIM before you travel.
 
 ## Accommodation
 
